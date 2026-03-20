@@ -1,6 +1,6 @@
 # Krutarth Shah
 
-Data Analyst & Analytics Engineer based in Pittsburgh, PA — open to opportunities across the US.
+Based in Pittsburgh, PA — open to opportunities across the US.
 
 Experienced in building end-to-end data pipelines, statistical models, and BI dashboards 
 that translate complex data into actionable business decisions.
