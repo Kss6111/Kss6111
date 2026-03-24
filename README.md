@@ -77,7 +77,7 @@ Logistic regression model (89% accuracy) with actionable retention recommendatio
 
 ---
 
-### [ResumeAI — AI-Powered Resume Screening System](https://github.com/Kss6111/ResumeAI)
+### [ResumeAI — AI-Powered Resume Screening System](https://github.com/shivendra-bhonsle/ResumeAi-IAI-group-project)
 `Python` `Gemini API` `Sentence-Transformers` `Streamlit` `FastAPI` `RapidFuzz`
 
 Automated resume ranking system using two-stage semantic ranking
