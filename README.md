@@ -54,7 +54,6 @@ traffic with 168% higher revenue per session ($1.72 vs $0.64), all statistically
 
 ---
 
-
 ### [E-Commerce Sales Analytics Pipeline — Olist Dataset](https://github.com/Kss6111/ecommerce-pipeline)
 `Snowflake` `dbt` `Python` `Power BI` `VADER` `Prophet` `Scikit-learn`
 
@@ -66,6 +65,16 @@ K-Means RFM clustering, and Prophet time-series forecasting on 22 months of data
 
 ---
 
+### [ResumeAI — AI-Powered Resume Screening System](https://github.com/Kss6111/ResumeAi-IAI-group-project)
+`Python` `Gemini API` `Sentence-Transformers` `Streamlit` `FastAPI` `RapidFuzz`
+
+Automated resume ranking system using two-stage semantic ranking
+(bi-encoder + cross-encoder re-ranking) and LLM-based parsing via Gemini API.
+Achieved 207% improvement in candidate identification accuracy over baseline keyword matching.
+Processes 100 resumes in under 3 minutes with explainable score breakdowns.
+
+---
+
 ### [Customer Churn Analysis](https://github.com/Kss6111/customer-churn-analysis)
 `PostgreSQL` `Python` `Tableau` `Scikit-learn`
 
@@ -74,16 +83,6 @@ flagging $139K monthly revenue at risk across 7,043 records.
 Logistic regression model (89% accuracy) with actionable retention recommendations.
 
 🔗 [Live Tableau Dashboard](https://public.tableau.com/views/CustomerChurnAnalysisTelecomDataset/Dashboard)
-
----
-
-### [ResumeAI — AI-Powered Resume Screening System](https://github.com/shivendra-bhonsle/ResumeAi-IAI-group-project)
-`Python` `Gemini API` `Sentence-Transformers` `Streamlit` `FastAPI` `RapidFuzz`
-
-Automated resume ranking system using two-stage semantic ranking
-(bi-encoder + cross-encoder re-ranking) and LLM-based parsing via Gemini API.
-Achieved 207% improvement in candidate identification accuracy over baseline keyword matching.
-Processes 100 resumes in under 3 minutes with explainable score breakdowns.
 
 ---
 
