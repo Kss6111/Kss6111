@@ -54,7 +54,7 @@ traffic with 168% higher revenue per session ($1.72 vs $0.64), all statistically
 
 ---
 
-### [E-Commerce Sales Analytics Pipeline — Olist Dataset](https://github.com/Kss6111/ecommerce-pipeline)
+### [E-Commerce Sales Analytics Pipeline - Olist Dataset](https://github.com/Kss6111/ecommerce-pipeline)
 `Snowflake` `dbt` `Python` `Power BI` `VADER` `Prophet` `Scikit-learn`
 
 ELT pipeline loading 100K+ orders into Snowflake across 14 dbt models.
@@ -65,7 +65,7 @@ K-Means RFM clustering, and Prophet time-series forecasting on 22 months of data
 
 ---
 
-### [ResumeAI — AI-Powered Resume Screening System](https://github.com/Kss6111/ResumeAi-IAI-group-project)
+### [ResumeAI - AI-Powered Resume Screening System](https://github.com/Kss6111/ResumeAi-IAI-group-project)
 `Python` `Gemini API` `Sentence-Transformers` `Streamlit` `FastAPI` `RapidFuzz`
 
 Automated resume ranking system using two-stage semantic ranking
