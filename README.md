@@ -96,9 +96,9 @@ Logistic regression model (89% accuracy) with actionable retention recommendatio
 
 ### Tech Stack
 
-**Languages:** Python, SQL, Scala (basic), JavaScript, Java
+**Languages:** Python, SQL, Scala, JavaScript, Java
 
-**Data Engineering:** Kafka, Spark Structured Streaming, PySpark, Apache Airflow, dbt Core, Snowflake, BigQuery, AWS S3, Delta Lake, PostgreSQL, Docker, Docker Compose, Terraform, GitHub Actions, Great Expectations
+**Data Engineering:** Kafka, Spark Structured Streaming, PySpark, Apache Airflow, dbt Core, dbt Cloud, Snowflake, BigQuery, AWS S3, Delta Lake, PostgreSQL, Docker, Docker Compose, Terraform, GitHub Actions, Great Expectations
 
 **Analytics and BI:** Tableau, Power BI, Metabase, Looker Studio, Google Analytics
 
