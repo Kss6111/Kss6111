@@ -46,7 +46,7 @@ getting the analysis wrong has consequences worth caring about.
 
 End-to-end data engineering platform handling both real-time streaming and batch ingestion in a single architecture. Kafka ingests order events, clickstream, and inventory updates into Spark Structured Streaming, landing in Delta Lake on AWS S3. PostgreSQL operational data is batch-extracted daily. Airflow orchestrates both pipelines. dbt transforms raw Snowflake data through 18 models with 106 passing tests into five mart tables. Great Expectations validates data quality at the raw layer. Metabase serves the analytics dashboard.
 
-🔗 
+📊 [Dashboard Preview](https://github.com/Kss6111/ecommerce-data-platform/blob/main/docs/screenshots/metabase_dashboard.png)
 
 ---
 
@@ -58,7 +58,7 @@ Conducted A/B test across 247,460 sessions finding CPC converts at 2x the rate o
 traffic with 168% higher revenue per session ($1.72 vs $0.64), all statistically significant 
 (p < 0.000001).
 
-🔗 [Live Tableau Dashboard](https://public.tableau.com/views/marketing_analytics_dashboard/MarketingAnalyticsDashboard)
+📊 [Live Tableau Dashboard](https://public.tableau.com/views/marketing_analytics_dashboard/MarketingAnalyticsDashboard)
 
 ---
 
@@ -90,7 +90,7 @@ Identified month-to-month customers churn at 15x the rate of two-year subscriber
 flagging $139K monthly revenue at risk across 7,043 records.
 Logistic regression model (89% accuracy) with actionable retention recommendations.
 
-🔗 [Live Tableau Dashboard](https://public.tableau.com/views/CustomerChurnAnalysisTelecomDataset/Dashboard)
+📊 [Live Tableau Dashboard](https://public.tableau.com/views/CustomerChurnAnalysisTelecomDataset/Dashboard)
 
 ---
 
