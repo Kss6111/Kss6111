@@ -1,6 +1,6 @@
 # Krutarth Shah
 
-Based in Pittsburgh, PA, open to opportunities across the US.
+Based in Pennsylvania, USA and open to opportunities across the US.
 
 ---
 
@@ -41,6 +41,14 @@ getting the analysis wrong has consequences worth caring about.
 ---
 
 ## Projects
+### [E-Commerce Data Platform](https://github.com/Kss6111/ecommerce-data-platform)
+`Kafka` `Spark Structured Streaming` `PySpark` `Airflow` `AWS S3` `Delta Lake` `Snowflake` `dbt` `Great Expectations` `Terraform` `GitHub Actions` `Metabase` `Docker`
+
+End-to-end data engineering platform handling both real-time streaming and batch ingestion in a single architecture. Kafka ingests order events, clickstream, and inventory updates into Spark Structured Streaming, landing in Delta Lake on AWS S3. PostgreSQL operational data is batch-extracted daily. Airflow orchestrates both pipelines. dbt transforms raw Snowflake data through 18 models with 106 passing tests into five mart tables. Great Expectations validates data quality at the raw layer. Metabase serves the analytics dashboard.
+
+🔗 
+
+---
 
 ### [Marketing Analytics Platform with A/B Testing](https://github.com/Kss6111/marketing-analytics-platform)
 `Airflow` `PySpark` `BigQuery` `Python` `Tableau` `Docker`
@@ -86,21 +94,19 @@ Logistic regression model (89% accuracy) with actionable retention recommendatio
 
 ---
 
-## Tech Stack
+### Tech Stack
 
-**Languages:** Python, SQL, JavaScript, Java
+**Languages:** Python, SQL, Scala (basic), JavaScript, Java
 
-**Data Engineering:** Snowflake, BigQuery, dbt Core, Apache Airflow, PySpark, Docker, REST APIs
+**Data Engineering:** Kafka, Spark Structured Streaming, PySpark, Apache Airflow, dbt Core, Snowflake, BigQuery, AWS S3, Delta Lake, PostgreSQL, Docker, Docker Compose, Terraform, GitHub Actions, Great Expectations
 
-**Analytics & BI:** Tableau Public, Power BI, Excel, Google Analytics, Power Query
+**Analytics and BI:** Tableau, Power BI, Metabase, Looker Studio, Google Analytics
 
-**Machine Learning & AI:** Scikit-learn, TensorFlow, PyTorch, Sentence-Transformers, VADER, Prophet
+**Machine Learning and AI:** Scikit-learn, TensorFlow, PyTorch, Sentence-Transformers, VADER, Prophet, Gemini API, LangGraph
 
-**Libraries:** Pandas, NumPy, Matplotlib, Seaborn, scipy, statsmodels, RapidFuzz
+**Libraries:** Pandas, NumPy, Matplotlib, Seaborn, SciPy, Statsmodels, RapidFuzz
 
-**Databases:** PostgreSQL, MongoDB, Snowflake, BigQuery
-
-**Tools:** Git, Streamlit, FastAPI, Zapier, Jira
+**Tools:** Git, Streamlit, FastAPI, REST APIs, Jira
 
 ---
 
